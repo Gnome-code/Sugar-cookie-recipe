@@ -1,5 +1,6 @@
 Simple Sugar Cookies recipe that is easy to bake- Tanush Talekar
 
+Ingredients:
 
 *2 3/4 cups all-purpose flour
 
@@ -14,3 +15,7 @@ Simple Sugar Cookies recipe that is easy to bake- Tanush Talekar
 *1 egg
 
 *1 teaspoon vanilla extract
+
+Recipe:
+
+
